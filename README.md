@@ -1,2 +1,2 @@
-Laravel_config
+Laravel configuration file for Nginx
 ==============
